@@ -1,0 +1,84 @@
+/*  
+font-family: "DM Sans", sans-serif;
+font-family: "Newsreader", serif;
+(I have no idea what this does and why I should have it here. 
+I don't know what's going on. This is like taking my training wheels off but instead of taking my training wheels off you've stabbed me 47 times.)
+*/
+
+body {
+    font-family: DM Sans;
+    color: #090b0b;
+}
+
+header {
+    background-color: #090b0b;
+    text-align: center;
+}
+
+footer {
+    font-weight: 800;
+    text-align: center;
+}
+
+.start {
+    padding-top: 7em;
+    padding-bottom: 5em;
+}
+
+h1 {
+    font-family: Newsreader;
+}
+
+h2 {
+    font-family: Newsreader;
+}
+
+h3 {
+    font-family: Newsreader;
+}
+
+nav {
+    background-color: #090b0b;
+    padding-bottom: 2em;
+    text-align: center;
+    color: #FFFFFC;
+    text-transform: uppercase;
+    /* I cannot figure out why the link won't also be white.. I'm looking back at the CSS for the link in opening day and it's the same?? What the heck*/
+}
+
+.location {
+    background-color: #090b0b;
+    color: #FFFFFC;
+    font-family: Newsreader;
+    text-align: center;
+    padding: 2em;
+    margin-bottom: 2em;
+
+}
+
+.headlines {
+    font-family: Newsreader;
+    color: #090b0b;
+    text-transform: uppercase;
+    font-size: 1px
+        /* I DONT KNOW WHAT I HAVE TO DO TO GET THE FONT SMALLER */
+}
+
+.start {
+    text-align: center;
+    font-family: Newsreader;
+    margin-bottom: 5em;
+    padding-bottom: 5em;
+}
+
+.freeme {
+    margin: 5em;
+}
+
+.blank {
+    color: #FFFFFC;
+}
+
+/*
+It's been days of this. Free me. I know there's a million issues, mostly spacing and text size, but I've tried googling and I've shed so many tears over this I had to just call it.
+*/
