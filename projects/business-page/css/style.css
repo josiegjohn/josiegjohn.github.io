@@ -1,8 +1,6 @@
 /*  
 font-family: "DM Sans", sans-serif;
 font-family: "Newsreader", serif;
-(I have no idea what this does and why I should have it here. 
-I don't know what's going on. This is like taking my training wheels off but instead of taking my training wheels off you've stabbed me 47 times.)
 */
 
 body {
@@ -53,7 +51,6 @@ nav {
     text-align: center;
     padding: 2em;
     margin-bottom: 2em;
-
 }
 
 .headlines {
@@ -61,7 +58,7 @@ nav {
     color: #090b0b;
     text-transform: uppercase;
     font-size: 1px
-        /* I DONT KNOW WHAT I HAVE TO DO TO GET THE FONT SMALLER */
+        /* I couldn't figure out how to get the font smaller */
 }
 
 .start {
@@ -71,14 +68,6 @@ nav {
     padding-bottom: 5em;
 }
 
-.freeme {
-    margin: 5em;
-}
-
 .blank {
     color: #FFFFFC;
 }
-
-/*
-It's been days of this. Free me. I know there's a million issues, mostly spacing and text size, but I've tried googling and I've shed so many tears over this I had to just call it.
-*/
