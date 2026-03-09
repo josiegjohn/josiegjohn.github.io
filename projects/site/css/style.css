@@ -1,0 +1,103 @@
+nav {
+    font-family: Newsreader;
+    color: #34252f;
+    text-align: center;
+    background-color: #8f95d3;
+    font-size: larger;
+    padding: 1em;
+}
+
+body {
+    background-color: #fff6ea;
+}
+
+/* x */
+header {
+    margin: 5em;
+}
+
+.about {
+    font-family: DM Sans;
+    color: #34252f;
+    font-size: xx-large;
+}
+
+/* x */
+h3 {
+    color: #34252f;
+    font-family: Newsreader;
+    font-size: xx-large;
+}
+
+/* x */
+.about {
+    color: #34252f;
+    font-family: DM Sans;
+    font-size: large;
+}
+
+/* x */
+.current {
+    color: #34252f;
+    font-family: DM Sans;
+    background-color: #f5dbcb;
+    padding: 1em;
+}
+
+/* RESUME */
+h1 {
+    font-family: Calistoga;
+    text-align: center;
+    color: #34252f;
+    font-size: 6em;
+    background-color: #fff6ea;
+}
+
+h2 {
+    font-family: Newsreader;
+    color: #34252f;
+    font-weight: bold;
+}
+
+h4 {
+    font-family: Newsreader;
+    color: #34252f;
+    font-weight: bold;
+}
+
+/* RESUME */
+h3 {
+    text-align: center;
+    font-family: Newsreader;
+    color: #34252f;
+    font-weight: bold;
+    background-color: #f5dbcb;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+h5 {
+    font-family: Newsreader;
+    color: #34252f;
+}
+
+.education {
+    font-family: DM Sans;
+    color: #34252f;
+
+}
+
+
+/* VISUALS */
+
+
+
+/* VISUALS */
+footer {
+    font-family: Newsreader;
+    text-align: center;
+    color: #34252f;
+    background-color: #8f95d3;
+    padding: 1em;
+    font-size: larger;
+}
