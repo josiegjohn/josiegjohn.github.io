@@ -7,6 +7,11 @@ nav {
     padding: 1em;
 }
 
+nav a {
+    color: #34252f
+}
+
+
 body {
     background-color: #fff6ea;
 }
@@ -42,6 +47,14 @@ h3 {
     font-family: DM Sans;
     background-color: #f5dbcb;
     padding: 1em;
+}
+
+.current a {
+    color: #34252f;
+}
+
+.investigative a {
+    color: #34252f;
 }
 
 /* RESUME */
@@ -100,4 +113,8 @@ footer {
     background-color: #8f95d3;
     padding: 1em;
     font-size: larger;
+}
+
+footer a {
+    color: #34252f;
 }
