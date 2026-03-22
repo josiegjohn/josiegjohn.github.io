@@ -1,9 +1,8 @@
 nav {
     font-family: Newsreader;
-    color: #34252f;
     text-align: center;
     background-color: #8f95d3;
-    font-size: larger;
+    font-size: x-large;
     padding: 1em;
 }
 
@@ -92,6 +91,10 @@ h3 {
 h5 {
     font-family: Newsreader;
     color: #34252f;
+}
+
+h6 {
+    font-size: smaller;
 }
 
 .education {
