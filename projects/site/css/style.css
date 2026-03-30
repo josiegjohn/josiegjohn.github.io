@@ -132,6 +132,60 @@ h6 {
 
 }
 
+.educationtitle {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.maryland {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+}
+
+.marywash {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+}
+
+.skillstitle {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.writingskills {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.researchskills {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.multimediaskills {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.experience {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
 footer {
     font-family: "Newsreader", serif;
     text-align: center;
