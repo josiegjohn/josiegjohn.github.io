@@ -1,5 +1,5 @@
 nav {
-    font-family: Newsreader;
+    font-family: "Newsreader", serif;
     text-align: center;
     background-color: #8f95d3;
     font-size: x-large;
@@ -10,40 +10,31 @@ nav a {
     color: #34252f
 }
 
-
 body {
     background-color: #fff6ea;
 }
 
-/* x */
 header {
-    margin: 5em;
+    margin: 3em;
+}
+
+.abouttitle {
+    font-family: "Calistoga", serif;
+    text-align: center;
+    color: #34252f;
+    font-size: 4em;
+    background-color: #fff6ea;
 }
 
 .about {
-    font-family: DM Sans;
     color: #34252f;
-    font-size: xx-large;
-}
-
-/* x */
-h3 {
-    color: #34252f;
-    font-family: Newsreader;
-    font-size: xx-large;
-}
-
-/* x */
-.about {
-    color: #34252f;
-    font-family: DM Sans;
+    font-family: "DM Sans", sans-serif;
     font-size: large;
 }
 
-/* x */
 .current {
     color: #34252f;
-    font-family: DM Sans;
+    font-family: "DM Sans", sans-serif;
     background-color: #f5dbcb;
     padding: 1em;
 }
@@ -56,9 +47,8 @@ h3 {
     color: #34252f;
 }
 
-/* RESUME */
 h1 {
-    font-family: Calistoga;
+    font-family: "Calistoga", serif;
     text-align: center;
     color: #34252f;
     font-size: 6em;
@@ -66,21 +56,14 @@ h1 {
 }
 
 h2 {
-    font-family: Newsreader;
+    font-family: "Newsreader", serif;
     color: #34252f;
     font-weight: bold;
 }
 
-h4 {
-    font-family: Newsreader;
-    color: #34252f;
-    font-weight: bold;
-}
-
-/* RESUME */
 h3 {
     text-align: center;
-    font-family: Newsreader;
+    font-family: "Newsreader", serif;
     color: #34252f;
     font-weight: bold;
     background-color: #f5dbcb;
@@ -88,8 +71,14 @@ h3 {
     padding-bottom: .5em;
 }
 
+h4 {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+}
+
 h5 {
-    font-family: Newsreader;
+    font-family: "Newsreader", serif;
     color: #34252f;
 }
 
@@ -97,20 +86,108 @@ h6 {
     font-size: smaller;
 }
 
+.investigativetitle {
+    text-align: center;
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    background-color: #f5dbcb;
+    padding: .5em;
+    font-size: 2em;
+}
+
+.datatitle {
+    text-align: center;
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    background-color: #f5dbcb;
+    padding: .5em;
+    font-size: 2em;
+}
+
+.localtitle {
+    text-align: center;
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    background-color: #f5dbcb;
+    padding: .5em;
+    font-size: 2em;
+}
+
+.featurestitle {
+    text-align: center;
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    background-color: #f5dbcb;
+    padding: .5em;
+    font-size: 2em;
+}
+
 .education {
-    font-family: DM Sans;
+    font-family: "DM Sans", sans-serif;
     color: #34252f;
 
 }
 
+.educationtitle {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    font-size: 1.5em;
+}
 
-/* VISUALS */
+.maryland {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+}
 
+.marywash {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+}
 
+.skillstitle {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    font-size: 1.5em;
+}
 
-/* VISUALS */
+.writingskills {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.researchskills {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.multimediaskills {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.experience {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
 footer {
-    font-family: Newsreader;
+    font-family: "Newsreader", serif;
     text-align: center;
     color: #34252f;
     background-color: #8f95d3;
