@@ -6,17 +6,21 @@ nav {
     padding: 1em;
 }
 
+
 nav a {
     color: #34252f
 }
+
 
 body {
     background-color: #fff6ea;
 }
 
+
 header {
     margin: 3em;
 }
+
 
 .abouttitle {
     font-family: "Calistoga", serif;
@@ -26,11 +30,13 @@ header {
     background-color: #fff6ea;
 }
 
+
 .about {
     color: #34252f;
     font-family: "DM Sans", sans-serif;
     font-size: large;
 }
+
 
 .current {
     color: #34252f;
@@ -39,13 +45,16 @@ header {
     padding: 1em;
 }
 
+
 .current a {
     color: #34252f;
 }
 
+
 .investigative a {
     color: #34252f;
 }
+
 
 h1 {
     font-family: "Calistoga", serif;
@@ -55,11 +64,13 @@ h1 {
     background-color: #fff6ea;
 }
 
+
 h2 {
     font-family: "Newsreader", serif;
     color: #34252f;
     font-weight: bold;
 }
+
 
 h3 {
     text-align: center;
@@ -71,22 +82,9 @@ h3 {
     padding-bottom: .5em;
 }
 
-h4 {
-    font-family: "Newsreader", serif;
-    color: #34252f;
-    font-weight: bold;
-}
 
-h5 {
-    font-family: "Newsreader", serif;
-    color: #34252f;
-}
-
-h6 {
-    font-size: smaller;
-}
-
-.investigativetitle {
+/*below is about h3 sized newsreader text with pink bg*/
+.midpagetitle {
     text-align: center;
     font-family: "Newsreader", serif;
     color: #34252f;
@@ -96,60 +94,30 @@ h6 {
     font-size: 2em;
 }
 
-.datatitle {
-    text-align: center;
-    font-family: "Newsreader", serif;
-    color: #34252f;
-    font-weight: bold;
-    background-color: #f5dbcb;
-    padding: .5em;
-    font-size: 2em;
-}
 
-.localtitle {
-    text-align: center;
-    font-family: "Newsreader", serif;
-    color: #34252f;
-    font-weight: bold;
-    background-color: #f5dbcb;
-    padding: .5em;
-    font-size: 2em;
-}
-
-.featurestitle {
-    text-align: center;
-    font-family: "Newsreader", serif;
-    color: #34252f;
-    font-weight: bold;
-    background-color: #f5dbcb;
-    padding: .5em;
-    font-size: 2em;
-}
-
-.education {
-    font-family: "DM Sans", sans-serif;
-    color: #34252f;
-
-}
-
-.educationtitle {
+/* below is similar to h4 size */
+.midpagesubtitle {
     font-family: "Newsreader", serif;
     color: #34252f;
     font-weight: bold;
     font-size: 1.5em;
 }
 
-.maryland {
+
+.biggertext {
     font-family: "Newsreader", serif;
     color: #34252f;
     font-size: 1.3em;
 }
 
-.marywash {
-    font-family: "Newsreader", serif;
+
+.education {
+    font-family: "DM Sans", sans-serif;
     color: #34252f;
-    font-size: 1.3em;
+
+
 }
+
 
 .skillstitle {
     font-family: "Newsreader", serif;
@@ -158,26 +126,21 @@ h6 {
     font-size: 1.5em;
 }
 
-.writingskills {
+
+.school {
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-size: 1.3em;
+}
+
+
+.skills {
     font-family: "Newsreader", serif;
     color: #34252f;
     font-size: 1.3em;
     font-weight: bold;
 }
 
-.researchskills {
-    font-family: "Newsreader", serif;
-    color: #34252f;
-    font-size: 1.3em;
-    font-weight: bold;
-}
-
-.multimediaskills {
-    font-family: "Newsreader", serif;
-    color: #34252f;
-    font-size: 1.3em;
-    font-weight: bold;
-}
 
 .experience {
     font-family: "Newsreader", serif;
@@ -185,6 +148,7 @@ h6 {
     font-weight: bold;
     font-size: 1.5em;
 }
+
 
 footer {
     font-family: "Newsreader", serif;
@@ -194,6 +158,19 @@ footer {
     padding: 1em;
     font-size: larger;
 }
+
+
+.signature {
+    font-family: "Newsreader", serif;
+    text-align: center;
+    color: #34252f;
+    background-color: #8f95d3;
+    padding: .5em;
+    font-size: .7em;
+}
+
+
+
 
 footer a {
     color: #34252f;
