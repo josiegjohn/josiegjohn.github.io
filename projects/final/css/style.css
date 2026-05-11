@@ -1,6 +1,26 @@
+.navbar {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#nav-logo {
+    width: 100%;
+    max-width: 1000px;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+#logo {
+    width: 250px;
+}
+
+.content-wrapper {
+    margin: 4em;
+}
+
 body {
     background-color: #1e2019;
-    margin: 4em;
+    margin: 0em;
 }
 
 main {
