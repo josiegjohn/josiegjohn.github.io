@@ -18,6 +18,13 @@
     margin: 4em;
 }
 
+.bubbles {
+    margin-top: 4em;
+    margin-bottom: 4em;
+    margin-left: 12em;
+    margin-right: 12em;
+}
+
 body {
     background-color: #1e2019;
     margin: 0em;
@@ -86,6 +93,10 @@ footer a {
 
     .methodology {
         border: 1em solid #f2f4f3;
+        margin: 1em;
+    }
+
+    .bubbles {
         margin: 1em;
     }
 }
