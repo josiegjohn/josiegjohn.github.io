@@ -81,6 +81,14 @@ h3 {
     padding-bottom: .5em;
 }
 
+.jobtitle {
+    text-align: left;
+    font-family: "Newsreader", serif;
+    color: #34252f;
+    font-weight: bold;
+    font-size: 2em;
+}
+
 
 /*below is about h3 sized newsreader text with pink bg*/
 .midpagetitle {
@@ -168,4 +176,10 @@ footer {
 
 footer a {
     color: #34252f;
+}
+
+@media (max-width: 600px) {
+    header {
+        margin: 0em;
+    }
 }
